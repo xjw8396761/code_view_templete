@@ -1,1 +1,5 @@
-package codeviewtemplete
+package main
+
+func main() {
+	deletefrun()
+}
