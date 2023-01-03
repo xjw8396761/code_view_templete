@@ -1,1 +1,1 @@
-packag codeviewtemplete
+package codeviewtemplete
