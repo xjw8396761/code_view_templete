@@ -1,2 +1,3 @@
 <?php
-echo "ssssadsfadsf0';
+function add(){
+echo "ssss";
